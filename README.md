@@ -1,2 +1,3 @@
-# pub2private-test
-public to private test
+# README
+was public to private test
+
