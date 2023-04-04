@@ -1,3 +1,3 @@
 # README
-was public to private test
+Test repo from Ubuntu Linux using mostly Firefox.
 
